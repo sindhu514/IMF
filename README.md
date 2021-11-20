@@ -2,6 +2,4 @@
 
 HI Hello
 
-created a feature branch
-
-made my first change
+created a feature branch 
